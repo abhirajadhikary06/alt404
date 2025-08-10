@@ -1,4 +1,4 @@
-# Alt404
+# ⚡Alt404
 
 **Alt404** is a Flask-based web application that empowers users to discover free alternatives to any website by simply entering its URL. Powered by the Gemini 2.5 Flash API, Alt404 extracts the website name, suggests the top three free alternative websites, and displays each with its name, logo, and clickable link in a clean, responsive interface. Whether the input URL is active or broken, Alt404 delivers reliable results with logos fetched via the Clearbit Logo API and a favicon fallback.
 
